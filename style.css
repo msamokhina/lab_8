@@ -1,0 +1,21 @@
+#plot{
+    width: 400px;
+    height: 300px;
+    background-color: white;
+}
+
+.input-group-addon{
+    background-color: black;
+    color: white;
+    width: 100px;
+}
+
+.input-group{
+    width: 300px;
+    margin: 1px;
+    align-content: center;
+}
+
+#plot_btn{
+    background-color: red;
+}
